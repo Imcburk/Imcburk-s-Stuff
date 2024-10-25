@@ -1,0 +1,31 @@
+apple music bingus
+cool stuff
+fav songs, tayla 
+Model this somehow
+create a song class
+4 attributes
+-title/name
+-artist
+-duration in seconds
+-rating 1-10 format
+diff constructors
+-default
+-two params, name and artist
+-all four at once
+Settas and gettahs, for all the jimmys
+create a method called printInfo, does as said prints all the infer
+
+once done, wants a seperate file called main.java
+create four instances of songs, but only use the two param constructor, INSIDE A ARRAY
+CALL THE ARRAY PLAYLISTs
+
+go thru every element thru the array, and ask for user input to set the duration and the rating of the song for
+every element inside the array
+
+my GOD BRO; bro is NOT capping bout 12 mins
+traverse and print all the info on every song
+
+THE HOMEWOrk iS TO USE THE SWAP METHOD
+CREATE A SHUFFLE METHOD, THAT WOULD REORDER THE PLAYLIST
+
+20 SONGS TO be read by a file, TAKE THE FILE AND SHOVE IT INTO AN ARRAY OF SONGS AND SHUFFLE THAT 
